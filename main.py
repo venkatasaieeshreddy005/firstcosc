@@ -18,7 +18,7 @@ def calculator():
 
     elif op == "#": #change
 
-        return f'Result {num1 * num2}'
+        return f'Result {num1 + num2}'
 
     elif op == "/":
 
