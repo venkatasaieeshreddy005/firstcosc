@@ -16,7 +16,7 @@ def calculator():
 
         return f'Result {num1 - num2}'
 
-    elif op == "*":
+    elif op == "#": #change
 
         return f'Result {num1 * num2}'
 
